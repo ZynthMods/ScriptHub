@@ -1,0 +1,5 @@
+OWL HUB (universal) loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+ALPHA X (semi-universal) loadstring(game:HttpGet("https://alpha1004.tech/scripts/AlphaX.lua"))()
+WHEEL HUB (semi-universal) loadstring(game:HttpGet("https://raw.githubusercontent.com/AaronS69420/WheelHub/main/MainFile", true))()
+BIG BALLA (Bloxburg) loadstring(game:HttpGet('https://raw.githubusercontent.com/big-balla-script-maka/free-scripts/main/BloxburgPizza.lua'))()
+ILUSSION (bloxburg) local http_request = http_request or request or (syn and syn.request) or (http and http.request) loadstring(http_request({Url="https://projectillusion.dev/beta/illusion/script.lua",Method="GET"}).Body)()
